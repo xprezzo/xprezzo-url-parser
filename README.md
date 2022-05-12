@@ -35,7 +35,7 @@ does not change will return a cached parsed object, rather than parsing again.
 
 ## People
 
-Xprezzo and related projects are maintained by [Ben Ajenoui](mailto:info@seoher.io) and sponsored by [SEO Hero](https://www.seohero.io).
+Xprezzo and related projects are maintained by [BCloudgen Wong](mailto:cloudgen.wong@gmail.com).
 
 ## License
 
